@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Eat Healthy_data" version="1.3.0" audacityversion="2.3.0" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="49.8579545455" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="Nikki Smalley"/>
+		<tag name="TITLE" value="Eat Healthy"/>
+	</tags>
+	<wavetrack name="Beat" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1676122">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808459.au" len="248666" min="-0.407349" max="0.489716" rms="0.077202"/>
+				</waveblock>
+				<waveblock start="248666">
+					<simpleblockfile filename="e08082bc.au" len="262144" min="-0.508698" max="0.44516" rms="0.082967"/>
+				</waveblock>
+				<waveblock start="510810">
+					<simpleblockfile filename="e0808357.au" len="262144" min="-0.43158" max="0.434784" rms="0.084732"/>
+				</waveblock>
+				<waveblock start="772954">
+					<simpleblockfile filename="e0808e1e.au" len="262144" min="-0.475159" max="0.451447" rms="0.084901"/>
+				</waveblock>
+				<waveblock start="1035098">
+					<simpleblockfile filename="e0808998.au" len="262144" min="-0.496063" max="0.423615" rms="0.084438"/>
+				</waveblock>
+				<waveblock start="1297242">
+					<simpleblockfile filename="e08086fb.au" len="262144" min="-0.373352" max="0.388458" rms="0.08482"/>
+				</waveblock>
+				<waveblock start="1559386">
+					<simpleblockfile filename="e08080e6.au" len="116736" min="-0.346039" max="0.433258" rms="0.067862"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Eat Healthy 3" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="0.316228" pan="0.0" colorindex="0">
+		<waveclip offset="9.70758333" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="803884">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808663.au" len="262144" min="-0.763212" max="0.71083" rms="0.105336"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e080823e.au" len="262144" min="-0.821491" max="0.765544" rms="0.133573"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e08085fe.au" len="262144" min="-0.891251" max="0.680665" rms="0.122485"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e08085d8.au" len="17452" min="-0.064322" max="0.046995" rms="0.011715"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
